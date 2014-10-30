@@ -1,6 +1,6 @@
 {
   "name": "hypnotable-footer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add a footer to your Hypnotable! Great for totals or other reductions of data.",
   "main": "index.js",
   "scripts": {
