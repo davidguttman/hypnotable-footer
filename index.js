@@ -9,7 +9,7 @@ module.exports = function htfooter (el, columns) {
   var tbody = document.querySelector('tbody')
 
   foot.appendChild(footRow)
-  el.insertBefore(foot, tbody)
+  el.appendChild(foot)
 
   stream.on('data', function(data) {
     var cells = data.cells
