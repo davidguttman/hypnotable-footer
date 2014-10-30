@@ -1,7 +1,7 @@
 {
   "name": "hypnotable-footer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Add a footer to your Hypnotable! Great for totals or other reductions of data.",
   "main": "index.js",
   "scripts": {
     "example": "beefy example/index.js --live"
@@ -16,5 +16,16 @@
   },
   "dependencies": {
     "through2": "^0.6.3"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidguttman/hypnotable-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidguttman/hypnotable-footer/issues"
+  },
+  "homepage": "https://github.com/davidguttman/hypnotable-footer"
 }
