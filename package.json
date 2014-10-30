@@ -1,0 +1,20 @@
+{
+  "name": "hypnotable-footer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "beefy example/index.js --live"
+  },
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^6.2.0",
+    "event-stream": "^3.1.7",
+    "hypnotable": "^0.6.1"
+  },
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
+}
